@@ -7,7 +7,7 @@ This project is just translate socket.io by [workerman](https://github.com/walko
 More api just see http://socket.io/docs/server-api/ 
 
 # Install
-composer require workerman/phpsocket.io
+```bash composer require workerman/phpsocket.io
 
 # Examples
 ## Simple chat
